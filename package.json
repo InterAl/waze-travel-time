@@ -1,0 +1,23 @@
+{
+  "name": "waze-travel-time",
+  "version": "0.0.2",
+  "description": "Calculates travel time via the Waze API",
+  "main": "crosstimeFetcher.js",
+  "author": "InterAl <interal@gmail.com>",
+  "dependencies": {
+    "concat-stream": "~1.4.8",
+    "q": "~1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "travel time",
+    "waze",
+    "routing time",
+    "crosstime",
+    "cross time"
+  ],
+  "license": "ISC"
+}
